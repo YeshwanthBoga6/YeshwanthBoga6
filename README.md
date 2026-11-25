@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Yeshwanth Boga 👋
 
-<!--
-**YeshwanthBoga6/YeshwanthBoga6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Business Analyst** from Hyderabad, India. I turn raw datasets into actionable business insights using interactive dashboards, SQL queries, and automated spreadsheets.
 
-Here are some ideas to get you started:
+### Technical Skills
+- **BI & Visualization:** Power BI, Tableau
+- **Databases:** MySQL (Joins, CTEs, Window Functions, Aggregations)
+- **Spreadsheets:** Advanced Excel (Pivot Tables, Power Query, XLOOKUP, Dashboards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+- **Coffee Store Sales & Profit Dashboard (Tableau):** Interactive dashboard analyzing regional sales, top products, and profit contribution.
+- **Business KPI & Performance Analysis (Power BI & MySQL):** Relational data cleaning, querying, and executive reporting.
+
+### Connect With Me
+- **LinkedIn:** (https://www.linkedin.com/in/yeshwanthboga)
+
+
